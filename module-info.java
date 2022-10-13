@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author markwaslazy
+ *
+ */
+module random {
+}
