@@ -36,6 +36,8 @@ public class IAmBadAtSwitch {
 			System.out.println("\nWrong input.");
 			System.out.println("Open this link for the punishment: https://www.youtube.com/watch?v=xvFZjo5PgG0");
 		}
+		
+		here.close();
 	
 	}
 
