@@ -1,6 +1,8 @@
+package markwaslazy;
+
 import java.util.Scanner;
 
-public class Calculator {
+public class Arithmetic {
 
 	public static void main(String[] args) {
 		
